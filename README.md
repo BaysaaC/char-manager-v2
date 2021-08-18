@@ -6,7 +6,7 @@
 ## Introduction :
 **The job:**
 <br>
->*A Comics fan client would like to manage his favorites characters on a dashboard. He contacts you to create an app that will be able to view, edit, create all his favorites characters.*
+>*" A Comics fan client would like to manage his favorites characters on a dashboard. He contacts you to create an app that will be able to view, edit, create all his favorites characters. "*
 
 ## End result (deployment):
 **Github Page URL :**
