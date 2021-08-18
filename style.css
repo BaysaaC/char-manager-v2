@@ -1,9 +1,7 @@
-/* FONT FAMILIES */
-/* 
+/*** DESIGN SPECIFICATIONS ***/
+/* FONT FAMILIES: GOOGLE FONTS
     font-family: 'Permanent Marker', cursive;
-    font-family: 'Roboto', sans-serif;
-
-*/
+    font-family: 'Roboto', sans-serif;        */
 
 @media only screen and (max-width: 400px) {
   * {
