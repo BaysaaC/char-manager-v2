@@ -1,5 +1,5 @@
 # Character Manager Application (version 2).
-> as part of the advanced Javascript exercises.
+> as part of the advanced Javascript exercises.<br>
 > Enhance the Character Manager application to obtain a modern JS application.
 
 ## Introduction :
