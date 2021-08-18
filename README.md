@@ -39,7 +39,7 @@ Solo project - Learning challenge
 + Use linters and formatters to make my code cleaner and more bug-free
 + Optimize my code to be shipped to a browser faster
 + Read instructions clearly and discuss with the team
-+ <br>
+<br>
 
 
 ## Detailed instructions: 
