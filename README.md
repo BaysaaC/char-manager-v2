@@ -1,17 +1,21 @@
-# Character Manager Application (version 2).
-> as part of the advanced Javascript exercises.<br>
-> Enhance the Character Manager application to obtain a modern JS application.
+# Character Manager Application (version 2)
+> *As part of the advanced Javascript exercises.*
+> <br>
+> Enhanced Character Manager application to obtain a modern JS application.
 
 ## Introduction :
-**The job:**<br>
-A Comics fan client would like to manage his favorites characters on a dashboard. He contacts you to create an app that will be able to view, edit, create all his favorites characters.
+**The job:**
+<br>
+>*A Comics fan client would like to manage his favorites characters on a dashboard. He contacts you to create an app that will be able to view, edit, create all his favorites characters.*
 
 ## End result (deployment):
 **Github Page URL :**
+<br>
 *COMING SOON*
 
 ## Project dates:
 Project start: Wednesday 18 August 2021
+<br>
 Project end: Friday 21 August 2021
 
 ## Project status (latest first):
@@ -22,16 +26,20 @@ Project end: Friday 21 August 2021
 |2021-08-18| Step 1: Refactor the JS codes.|
 
 ## Project type and goals:
-**Type:** <br>
-Solo project - Learning challenge<br>
+**Type:** 
+<br>
+Solo project - Learning challenge
+<br>
 
-**Goals:**<br>
+**Goals:**
+<br>
 + Organize my code with multiple functions
 + Organize my code in multiple files
 + Use a package manager to import third-party libraries in my code
 + Use linters and formatters to make my code cleaner and more bug-free
 + Optimize my code to be shipped to a browser faster
-+ Read instructions clearly and discuss with the team<br>
++ Read instructions clearly and discuss with the team
++ <br>
 
 
 ## Detailed instructions: 
