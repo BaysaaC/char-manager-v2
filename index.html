@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--Google Fonts: Roboto-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    
+    <!--Google Fonts: Permanent Marker-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+    
+    <!--CSS styles-->
+    <link rel="stylesheet" href="style.css">
+    
+    <title>Character Manager</title>
+    
+  </head>
+  <body class="pagebody">
+    <header class="charhead">
+      <nav class="charhead__nav">
+        <h1 class="charhead__title">
+          <a class="charhead__title--link" href="index.html">
+            Character Manager
+          </a>
+        </h1>
+      </nav>
+      <input
+        class="charhead__search"
+        type="text"
+        placeholder="Search character"
+      />
+    </header>
+
+    <hr class="charhead__division" />
+
+    <main class="charmain">
+      <section id="target"  class="charmain__cards">
+        <template id="charnew">
+          <div class="charmain__carditem">
+            <div class="charmain__img-div">
+              <img src="" alt="" class="charmain__img" />
+            </div>
+            <h2 class="charmain__title"></h2>
+            <p class="charmain__bio"></p>
+            <button class="charmain__bio--button" type="button">
+              <a
+                href="" 
+                class="charmain__bio--link"
+                target=""
+              >See character</a>
+            </button>
+          </div>
+        </template>
+
+        
+      </section>
+    </main>
+
+    <footer class="charmain__footer">
+      <button type="button" class="charmain__footer--button">
+        <a href="create.html" class="charmain__footer--link" target="_blank">
+          Add a new character to the collection
+        </a>
+      </button>
+    </footer>
+
+    <!--JS module-->
+    <script type="module" src="./scripts/characters.js"></script>
+
+  </body>
+</html>
