@@ -2,7 +2,7 @@
 //**** Script for CHARACTER.HTML page ****//
 //****************************************//
 
-import { fetchCharacter } from "./api.js";
+import { fetchCharacter, deleteCharacter } from "./api.js";
 import { CHAR_FORM, PREVIEW, CHAR_IMAGE, CHAR_NAME, CHAR_SHORTDESC, CHAR_LONGDESC } from "./update-form.js";
 
 
